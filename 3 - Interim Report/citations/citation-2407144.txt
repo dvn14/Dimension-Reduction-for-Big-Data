@@ -1,0 +1,1 @@
+Bingham, Ella & Mannila, Heikki. (2001). Random projection in dimensionality reduction: Applications to image and text data. Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. . 10.1145/502512.502546. 
